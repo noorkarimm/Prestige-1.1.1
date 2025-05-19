@@ -420,6 +420,7 @@
             "type": "collection",
             "settings": {
               "collection": "",
+              "image": "shopify://shop_images/L25-11B-_12_1024x1024_4417cc89-2406-4a6a-8d23-09995c053da6.jpg",
               "image_alignment": "center center",
               "content_position": "bottomLeft",
               "subheading": "Sub-heading",
@@ -466,6 +467,20 @@
           "text_color": "#ffffff",
           "button_color": "#363636"
         }
+      },
+      "image_with_text_overlay_rBHaXi": {
+        "type": "image-with-text-overlay",
+        "name": "Image with text (overlay)",
+        "settings": {
+          "section_size": "large",
+          "image": "shopify://shop_images/L25-11B-_9_1024x1024_f7822a7b-b182-4d3f-a70b-a0f7709d0d72.jpg",
+          "text_color": "#ffffff",
+          "overlay_color": "#000000",
+          "overlay_opacity": 30,
+          "subheading": "",
+          "title": "Tell your story",
+          "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
+        }
       }
     },
     "content_for_index": [
@@ -477,7 +492,8 @@
       "1595363281802",
       "1602617742633",
       "1602617331938",
-      "1596220234038"
+      "1596220234038",
+      "image_with_text_overlay_rBHaXi"
     ]
   },
   "presets": {
