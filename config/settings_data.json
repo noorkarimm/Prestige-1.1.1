@@ -105,10 +105,11 @@
         "type": "header",
         "settings": {
           "use_sticky_header": true,
+          "logo": "shopify://shop_images/Image_5-16-25_at_1.37_AM.jpg",
           "logo_max_width": 180,
           "navigation_menu": "main-menu",
           "navigation_style": "center",
-          "enable_transparent_header": true,
+          "enable_transparent_header": false,
           "enable_transparent_header_collection": false,
           "transparent_text_color": "#ffffff"
         }
