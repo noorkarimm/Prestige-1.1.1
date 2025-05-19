@@ -237,7 +237,7 @@
       "related-products": {
         "type": "related-products",
         "settings": {
-          "show_section": true,
+          "show_section": false,
           "title": "Related Products",
           "show_product_info": true,
           "show_color_swatch": false
