@@ -212,6 +212,9 @@
       },
       "product-template": {
         "type": "product-template",
+        "custom_css": [
+          "h1 {font-size: 17px;}"
+        ],
         "settings": {
           "show_share_buttons": false,
           "show_vendor": false,
